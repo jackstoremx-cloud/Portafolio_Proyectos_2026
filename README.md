@@ -1,2 +1,2 @@
-# CV_JulianAlmarazCornejo_2026
-Curriculo Vitae
+## Portafolio_JulianAlmarazCornejo_2026
+Proyectos Desarrollados
